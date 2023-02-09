@@ -1,6 +1,6 @@
 # family_chess_board
 
-Example Flutter project from the package 
+Example Flutter chess board project from the package 
 [flutter_chess_board: ^1.0.1](https://pub.dev/packages/flutter_chess_board/example).
 
 ## Getting Started
